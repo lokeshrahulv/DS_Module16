@@ -14,13 +14,11 @@ To write a C function to traverse the elements in a B+ Tree.
 
 ## Program:
 ```
-/*
 Program to traverse the elements in a B+ Tree.
-Developed by: ASHWIN KUMAR S
-RegisterNumber: 212222240013
-*/
+Developed by: LOKESH RAHUL V V
+RegisterNumber: 212222100024
 ```
-```c
+```
 /*
 struct B_TreeNode
 {

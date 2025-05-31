@@ -15,13 +15,11 @@ To write a C function to insert the elements in an AVL Tree.
 
 ## Program:
 ```
-/*
 Program to insert the elements in an AVL Tree
-Developed by: ASHWIN KUMAR S
-RegisterNumber: 212222240013
-*/
+Developed by: LOKESH RAHUL V V
+RegisterNumber: 212222100024
 ```
-```c
+```
 node * insert(node *T,int x) 
 { 
   if(T==NULL) 

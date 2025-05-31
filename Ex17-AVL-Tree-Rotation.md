@@ -14,13 +14,11 @@ To write a C function to perform right rotation in an AVL Tree.
 
 ## Program:
 ```
-/*
 Program to perform right rotation in AVL Tree
-Developed by: ASHWIN KUMAR S
-RegisterNumber: 212222240013
-*/
+Developed by: LOKESH RAHUL V V
+RegisterNumber: 212222100024
 ```
-```c
+```
 /*
 typedefstruct node
 {

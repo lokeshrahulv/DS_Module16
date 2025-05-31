@@ -12,13 +12,11 @@ To write a C function to delete an element from an AVL Tree.
 
 ## Program:
 ```
-/*
 Program to find and display the priority of the operator in the given Postfix expression
-Developed by: ASHWIN KUMAR S
-RegisterNumber: 212222240013
-*/
+Developed by: LOKESH RAHUL V V
+RegisterNumber: 212222100024
 ```
-```c
+```
 node * Delete(node *T,int x)
 {
   node *p;
